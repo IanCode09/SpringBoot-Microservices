@@ -5,6 +5,7 @@
       <list>
         <option value="$PROJECT_DIR$/PhoyoappApiUsers/pom.xml" />
         <option value="$PROJECT_DIR$/discovery/pom.xml" />
+        <option value="$PROJECT_DIR$/PhotoAppApiAccountManagement/pom.xml" />
       </list>
     </option>
   </component>

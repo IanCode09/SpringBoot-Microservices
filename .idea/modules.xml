@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/PhotoAppApiAccountManagement/api.account.iml" filepath="$PROJECT_DIR$/PhotoAppApiAccountManagement/api.account.iml" />
       <module fileurl="file://$PROJECT_DIR$/PhoyoappApiUsers/api.users.iml" filepath="$PROJECT_DIR$/PhoyoappApiUsers/api.users.iml" />
       <module fileurl="file://$PROJECT_DIR$/discovery/discovery.iml" filepath="$PROJECT_DIR$/discovery/discovery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ApiGateway/gateway.iml" filepath="$PROJECT_DIR$/ApiGateway/gateway.iml" />
     </modules>
   </component>
 </project>
